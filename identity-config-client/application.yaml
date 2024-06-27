@@ -1,4 +1,4 @@
 test:
   message: This message is from DEFAULT
 
-countries: AR, BR, EC, DO
+countries: AR, BR, EC, DO, US, CA
