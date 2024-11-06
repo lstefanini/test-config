@@ -3,3 +3,6 @@ server:
 test:
   message: Hello There. I'm from DEV. This is my signature ->
 countries: PE, AR, AS,PP,FR
+
+global:
+  name: overridingn global.name
