@@ -2,3 +2,7 @@ test:
   message: This message is from DEFAULT
 
 countries: BR, EC, DO, US, CA
+
+logging:
+  level:
+    ROOT: INFO
