@@ -1,5 +1,5 @@
 server:
   port: ${SERVER_PORT:8080}
 test:
-  message: Hello There. I'm from DEV. This is my signature ->
-countries: PE, AR, AS,PP,FR
+  message: Hello There. I'm from DEV
+countries: AR, BR, US
