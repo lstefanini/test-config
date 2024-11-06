@@ -1,5 +1,5 @@
 server:
   port: ${SERVER_PORT:8080}
 test:
-  message: Hello There. I'm from DEV
+  message: Hello There. I'm a new Message
 countries: AR, BR, US
