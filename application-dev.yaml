@@ -1,2 +1,2 @@
 global:
-  name: global-dev
+  name: global-dev override global-default
