@@ -5,4 +5,4 @@ countries: BR, EC, DO, US, CA
 
 logging:
   level:
-    ROOT: INFO
+    ROOT: DEBUG
